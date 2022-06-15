@@ -16,6 +16,7 @@ linux操作系统，torch == 1.2.0
 voc_weights_resnet.pth是resnet为主干特征提取网络用到的；    
 链接: https://pan.baidu.com/s/1S6wG8sEXBeoSec95NZxmlQ      
 提取码: 8mgp
+
 将下载好的权值文件放在model_data文件夹下。    
 
 VOC07+12数据集下载地址如下：  
